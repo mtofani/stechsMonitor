@@ -1,0 +1,94 @@
+2022-07-28 12:23:03,486 Starting new HTTP connection (1): oam-2-virt:82
+2022-07-28 12:23:03,767 http://oam-2-virt:82 "GET /bdp/api/v0.2/services/status HTTP/1.1" 200 424
+2022-07-28 12:23:03,768 Diccionario bdpv4:
+2022-07-28 12:23:03,768 {'Result': 'Success', 'Error_code': 0, 'Error_str': None, 'Error_str_detail': None, 'Donetime': 'Total time: 274.22ms', 'Matched_items': 1, 'Display_items': 1, 'Node_name': 'sts-bp-13', 'Items': {'DHCP': {'pidnumber': 9415, 'status': 'Running', 'last start': 1658658904.5590572, 'cpu_perc': 0.0, 'mem_perc': 0.11437026412536794}, 'TFTP': {'status': 'Unknown'}, 'TIME': {'status': 'Unknown'}, 'DTFTP': {'status': 'Unknown'}}}
+2022-07-28 12:23:05,899 Diccionario bdp6
+2022-07-28 12:23:05,899 {'cmd': 'extended-status', 'cmd_result_code': '00', 'Result': 'Success', 'bdp6_status': 'inactive'}
+2022-07-28 12:23:05,899 BDP6 ERROR AL PROCESAR REQUEST :string indices must be integers
+2022-07-28 12:25:54,066 Starting new HTTP connection (1): oam-2-virt:82
+2022-07-28 12:25:54,351 http://oam-2-virt:82 "GET /bdp/api/v0.2/services/status HTTP/1.1" 200 424
+2022-07-28 12:25:54,352 Diccionario bdpv4:
+2022-07-28 12:25:54,352 {'Result': 'Success', 'Error_code': 0, 'Error_str': None, 'Error_str_detail': None, 'Donetime': 'Total time: 277.51ms', 'Matched_items': 1, 'Display_items': 1, 'Node_name': 'sts-bp-13', 'Items': {'DHCP': {'pidnumber': 9415, 'status': 'Running', 'last start': 1658658904.5590572, 'cpu_perc': 0.0, 'mem_perc': 0.11437026412536794}, 'TFTP': {'status': 'Unknown'}, 'TIME': {'status': 'Unknown'}, 'DTFTP': {'status': 'Unknown'}}}
+2022-07-28 12:27:13,454 Starting new HTTP connection (1): oam-2-virt:82
+2022-07-28 12:27:13,742 http://oam-2-virt:82 "GET /bdp/api/v0.2/services/status HTTP/1.1" 200 424
+2022-07-28 12:27:13,743 Diccionario bdpv4:
+2022-07-28 12:27:13,743 {'Result': 'Success', 'Error_code': 0, 'Error_str': None, 'Error_str_detail': None, 'Donetime': 'Total time: 280.60ms', 'Matched_items': 1, 'Display_items': 1, 'Node_name': 'sts-bp-13', 'Items': {'DHCP': {'pidnumber': 9415, 'status': 'Running', 'last start': 1658658904.5590572, 'cpu_perc': 0.0, 'mem_perc': 0.11437026412536794}, 'TFTP': {'status': 'Unknown'}, 'TIME': {'status': 'Unknown'}, 'DTFTP': {'status': 'Unknown'}}}
+2022-07-28 12:27:16,196 Diccionario bdp6
+2022-07-28 12:27:16,196 {'cmd': 'extended-status', 'cmd_result_code': '00', 'Result': 'Success', 'bdp6_status': 'inactive'}
+2022-07-28 12:27:16,196 BDP6 ERROR AL PROCESAR REQUEST :string indices must be integers
+2022-07-28 12:28:08,663 Diccionario bdp6
+2022-07-28 12:28:08,663 {'cmd': 'extended-status', 'cmd_result_code': '00', 'Result': 'Success', 'bdp6_status': 'inactive'}
+2022-07-28 12:28:08,664 BDP6 ERROR AL PROCESAR REQUEST :string indices must be integers
+2022-07-28 12:28:15,640 Starting new HTTP connection (1): oam-2-virt:82
+2022-07-28 12:28:15,923 http://oam-2-virt:82 "GET /bdp/api/v0.2/services/status HTTP/1.1" 200 424
+2022-07-28 12:28:15,924 Diccionario bdpv4:
+2022-07-28 12:28:15,924 {'Result': 'Success', 'Error_code': 0, 'Error_str': None, 'Error_str_detail': None, 'Donetime': 'Total time: 275.64ms', 'Matched_items': 1, 'Display_items': 1, 'Node_name': 'sts-bp-13', 'Items': {'DHCP': {'pidnumber': 9415, 'status': 'Running', 'last start': 1658658904.5590572, 'cpu_perc': 0.0, 'mem_perc': 0.11437026412536794}, 'TFTP': {'status': 'Unknown'}, 'TIME': {'status': 'Unknown'}, 'DTFTP': {'status': 'Unknown'}}}
+2022-07-28 12:39:09,371 Diccionario bdp6
+2022-07-28 12:39:09,371 {'cmd': 'extended-status', 'cmd_result_code': '00', 'Result': 'Success', 'bdp6_status': 'inactive'}
+2022-07-28 12:39:09,371 BDP6 ERROR AL PROCESAR REQUEST :string indices must be integers
+2022-07-28 12:39:09,556 Starting new HTTP connection (1): oam-2-virt:82
+2022-07-28 12:39:09,838 http://oam-2-virt:82 "GET /bdp/api/v0.2/services/status HTTP/1.1" 200 424
+2022-07-28 12:39:09,839 Diccionario bdpv4:
+2022-07-28 12:39:09,839 {'Result': 'Success', 'Error_code': 0, 'Error_str': None, 'Error_str_detail': None, 'Donetime': 'Total time: 275.57ms', 'Matched_items': 1, 'Display_items': 1, 'Node_name': 'sts-bp-13', 'Items': {'DHCP': {'pidnumber': 9415, 'status': 'Running', 'last start': 1658658904.5590572, 'cpu_perc': 0.0, 'mem_perc': 0.11437026412536794}, 'TFTP': {'status': 'Unknown'}, 'TIME': {'status': 'Unknown'}, 'DTFTP': {'status': 'Unknown'}}}
+2022-07-28 12:42:37,790 Diccionario bdp6
+2022-07-28 12:42:37,791 {'cmd': 'extended-status', 'cmd_result_code': '00', 'Result': 'Success', 'bdp6_status': 'inactive'}
+2022-07-28 12:42:37,791 BDP6 ERROR AL PROCESAR REQUEST :string indices must be integers
+2022-07-28 12:42:37,974 Starting new HTTP connection (1): oam-2-virt:82
+2022-07-28 12:42:38,256 http://oam-2-virt:82 "GET /bdp/api/v0.2/services/status HTTP/1.1" 200 424
+2022-07-28 12:42:38,257 Diccionario bdpv4:
+2022-07-28 12:42:38,257 {'Result': 'Success', 'Error_code': 0, 'Error_str': None, 'Error_str_detail': None, 'Donetime': 'Total time: 275.37ms', 'Matched_items': 1, 'Display_items': 1, 'Node_name': 'sts-bp-13', 'Items': {'DHCP': {'pidnumber': 9415, 'status': 'Running', 'last start': 1658658904.5590572, 'cpu_perc': 0.0, 'mem_perc': 0.11437026412536794}, 'TFTP': {'status': 'Unknown'}, 'TIME': {'status': 'Unknown'}, 'DTFTP': {'status': 'Unknown'}}}
+2022-07-28 12:47:10,818 Starting new HTTP connection (1): oam-3-virt:82
+2022-07-28 12:47:11,093 http://oam-3-virt:82 "GET /bdp/api/v0.2/services/status HTTP/1.1" 200 423
+2022-07-28 12:47:11,095 Diccionario bdpv4 CLUSTER2:
+2022-07-28 12:47:11,095 {'Result': 'Success', 'Error_code': 0, 'Error_str': None, 'Error_str_detail': None, 'Donetime': 'Total time: 269.56ms', 'Matched_items': 1, 'Display_items': 1, 'Node_name': 'sts-bp-21', 'Items': {'DHCP': {'pidnumber': 5867, 'status': 'Running', 'last start': 1659004504.4410305, 'cpu_perc': 0.0, 'mem_perc': 0.2275664383228878}, 'TFTP': {'status': 'Unknown'}, 'TIME': {'status': 'Unknown'}, 'DTFTP': {'status': 'Unknown'}}}
+2022-07-28 12:47:38,253 Diccionario bdp6
+2022-07-28 12:47:38,253 {'cmd': 'extended-status', 'cmd_result_code': '00', 'Result': 'Success', 'bdp6_status': 'inactive'}
+2022-07-28 12:47:38,253 BDP6 ERROR AL PROCESAR REQUEST :string indices must be integers
+2022-07-28 12:47:38,438 Starting new HTTP connection (1): oam-2-virt:82
+2022-07-28 12:47:38,715 http://oam-2-virt:82 "GET /bdp/api/v0.2/services/status HTTP/1.1" 200 424
+2022-07-28 12:47:38,716 Diccionario bdpv4:
+2022-07-28 12:47:38,716 {'Result': 'Success', 'Error_code': 0, 'Error_str': None, 'Error_str_detail': None, 'Donetime': 'Total time: 271.70ms', 'Matched_items': 1, 'Display_items': 1, 'Node_name': 'sts-bp-13', 'Items': {'DHCP': {'pidnumber': 9415, 'status': 'Running', 'last start': 1658658904.5590572, 'cpu_perc': 0.0, 'mem_perc': 0.11437026412536794}, 'TFTP': {'status': 'Unknown'}, 'TIME': {'status': 'Unknown'}, 'DTFTP': {'status': 'Unknown'}}}
+2022-07-28 12:49:11,771 Diccionario bdp6
+2022-07-28 12:49:11,771 {'cmd': 'extended-status', 'cmd_result_code': '00', 'Result': 'Success', 'bdp6_status': 'inactive'}
+2022-07-28 12:49:11,771 BDP6 ERROR AL PROCESAR REQUEST :string indices must be integers
+2022-07-28 12:49:11,955 Starting new HTTP connection (1): oam-2-virt:82
+2022-07-28 12:49:12,238 http://oam-2-virt:82 "GET /bdp/api/v0.2/services/status HTTP/1.1" 200 424
+2022-07-28 12:49:12,239 Diccionario bdpv4:
+2022-07-28 12:49:12,239 {'Result': 'Success', 'Error_code': 0, 'Error_str': None, 'Error_str_detail': None, 'Donetime': 'Total time: 275.40ms', 'Matched_items': 1, 'Display_items': 1, 'Node_name': 'sts-bp-13', 'Items': {'DHCP': {'pidnumber': 9415, 'status': 'Running', 'last start': 1658658904.5590572, 'cpu_perc': 0.0, 'mem_perc': 0.11437026412536794}, 'TFTP': {'status': 'Unknown'}, 'TIME': {'status': 'Unknown'}, 'DTFTP': {'status': 'Unknown'}}}
+2022-07-28 12:49:12,428 Starting new HTTP connection (1): oam-3-virt:82
+2022-07-28 12:49:12,705 http://oam-3-virt:82 "GET /bdp/api/v0.2/services/status HTTP/1.1" 200 423
+2022-07-28 12:49:12,706 Diccionario bdpv4 CLUSTER2:
+2022-07-28 12:49:12,706 {'Result': 'Success', 'Error_code': 0, 'Error_str': None, 'Error_str_detail': None, 'Donetime': 'Total time: 271.12ms', 'Matched_items': 1, 'Display_items': 1, 'Node_name': 'sts-bp-21', 'Items': {'DHCP': {'pidnumber': 5867, 'status': 'Running', 'last start': 1659004504.4410305, 'cpu_perc': 0.0, 'mem_perc': 0.2275664383228878}, 'TFTP': {'status': 'Unknown'}, 'TIME': {'status': 'Unknown'}, 'DTFTP': {'status': 'Unknown'}}}
+2022-07-28 12:54:10,839 Diccionario bdp6
+2022-07-28 12:54:10,839 {'cmd': 'extended-status', 'cmd_result_code': '00', 'Result': 'Success', 'bdp6_status': 'inactive'}
+2022-07-28 12:54:10,839 BDP6 ERROR AL PROCESAR REQUEST :string indices must be integers
+2022-07-28 12:54:11,021 Starting new HTTP connection (1): oam-2-virt:82
+2022-07-28 12:54:11,303 http://oam-2-virt:82 "GET /bdp/api/v0.2/services/status HTTP/1.1" 200 424
+2022-07-28 12:54:11,304 Diccionario bdpv4:
+2022-07-28 12:54:11,304 {'Result': 'Success', 'Error_code': 0, 'Error_str': None, 'Error_str_detail': None, 'Donetime': 'Total time: 275.71ms', 'Matched_items': 1, 'Display_items': 1, 'Node_name': 'sts-bp-13', 'Items': {'DHCP': {'pidnumber': 9415, 'status': 'Running', 'last start': 1658658904.5590572, 'cpu_perc': 0.0, 'mem_perc': 0.11437026412536794}, 'TFTP': {'status': 'Unknown'}, 'TIME': {'status': 'Unknown'}, 'DTFTP': {'status': 'Unknown'}}}
+2022-07-28 12:54:11,488 Starting new HTTP connection (1): oam-3-virt:82
+2022-07-28 12:54:11,768 http://oam-3-virt:82 "GET /bdp/api/v0.2/services/status HTTP/1.1" 200 423
+2022-07-28 12:54:11,769 Diccionario bdpv4 CLUSTER2:
+2022-07-28 12:54:11,769 {'Result': 'Success', 'Error_code': 0, 'Error_str': None, 'Error_str_detail': None, 'Donetime': 'Total time: 274.01ms', 'Matched_items': 1, 'Display_items': 1, 'Node_name': 'sts-bp-21', 'Items': {'DHCP': {'pidnumber': 5867, 'status': 'Running', 'last start': 1659004504.4410305, 'cpu_perc': 0.0, 'mem_perc': 0.2275664383228878}, 'TFTP': {'status': 'Unknown'}, 'TIME': {'status': 'Unknown'}, 'DTFTP': {'status': 'Unknown'}}}
+2022-07-28 12:59:09,920 Diccionario bdp6
+2022-07-28 12:59:09,920 {'cmd': 'extended-status', 'cmd_result_code': '00', 'Result': 'Success', 'bdp6_status': 'inactive'}
+2022-07-28 12:59:09,920 BDP6 ERROR AL PROCESAR REQUEST :string indices must be integers
+2022-07-28 12:59:10,107 Starting new HTTP connection (1): oam-2-virt:82
+2022-07-28 12:59:10,388 http://oam-2-virt:82 "GET /bdp/api/v0.2/services/status HTTP/1.1" 200 424
+2022-07-28 12:59:10,389 Diccionario bdpv4:
+2022-07-28 12:59:10,389 {'Result': 'Success', 'Error_code': 0, 'Error_str': None, 'Error_str_detail': None, 'Donetime': 'Total time: 274.61ms', 'Matched_items': 1, 'Display_items': 1, 'Node_name': 'sts-bp-13', 'Items': {'DHCP': {'pidnumber': 9415, 'status': 'Running', 'last start': 1658658904.5590572, 'cpu_perc': 0.0, 'mem_perc': 0.11437026412536794}, 'TFTP': {'status': 'Unknown'}, 'TIME': {'status': 'Unknown'}, 'DTFTP': {'status': 'Unknown'}}}
+2022-07-28 12:59:10,570 Starting new HTTP connection (1): oam-3-virt:82
+2022-07-28 12:59:10,846 http://oam-3-virt:82 "GET /bdp/api/v0.2/services/status HTTP/1.1" 200 423
+2022-07-28 12:59:10,847 Diccionario bdpv4 CLUSTER2:
+2022-07-28 12:59:10,847 {'Result': 'Success', 'Error_code': 0, 'Error_str': None, 'Error_str_detail': None, 'Donetime': 'Total time: 270.53ms', 'Matched_items': 1, 'Display_items': 1, 'Node_name': 'sts-bp-21', 'Items': {'DHCP': {'pidnumber': 5867, 'status': 'Running', 'last start': 1659004504.4410305, 'cpu_perc': 4.0, 'mem_perc': 0.2275664383228878}, 'TFTP': {'status': 'Unknown'}, 'TIME': {'status': 'Unknown'}, 'DTFTP': {'status': 'Unknown'}}}
+2022-07-28 13:04:10,878 Diccionario bdp6
+2022-07-28 13:04:10,878 {'cmd': 'extended-status', 'cmd_result_code': '00', 'Result': 'Success', 'bdp6_status': 'inactive'}
+2022-07-28 13:04:10,878 BDP6 ERROR AL PROCESAR REQUEST :string indices must be integers
+2022-07-28 13:04:11,061 Starting new HTTP connection (1): oam-2-virt:82
+2022-07-28 13:04:11,345 http://oam-2-virt:82 "GET /bdp/api/v0.2/services/status HTTP/1.1" 200 424
+2022-07-28 13:04:11,346 Diccionario bdpv4:
+2022-07-28 13:04:11,346 {'Result': 'Success', 'Error_code': 0, 'Error_str': None, 'Error_str_detail': None, 'Donetime': 'Total time: 276.11ms', 'Matched_items': 1, 'Display_items': 1, 'Node_name': 'sts-bp-13', 'Items': {'DHCP': {'pidnumber': 9415, 'status': 'Running', 'last start': 1658658904.5590572, 'cpu_perc': 0.0, 'mem_perc': 0.11437026412536794}, 'TFTP': {'status': 'Unknown'}, 'TIME': {'status': 'Unknown'}, 'DTFTP': {'status': 'Unknown'}}}
+2022-07-28 13:04:11,536 Starting new HTTP connection (1): oam-3-virt:82
+2022-07-28 13:04:11,811 http://oam-3-virt:82 "GET /bdp/api/v0.2/services/status HTTP/1.1" 200 423
+2022-07-28 13:04:11,812 Diccionario bdpv4 CLUSTER2:
+2022-07-28 13:04:11,812 {'Result': 'Success', 'Error_code': 0, 'Error_str': None, 'Error_str_detail': None, 'Donetime': 'Total time: 268.95ms', 'Matched_items': 1, 'Display_items': 1, 'Node_name': 'sts-bp-21', 'Items': {'DHCP': {'pidnumber': 5867, 'status': 'Running', 'last start': 1659004504.4410305, 'cpu_perc': 0.0, 'mem_perc': 0.2275664383228878}, 'TFTP': {'status': 'Unknown'}, 'TIME': {'status': 'Unknown'}, 'DTFTP': {'status': 'Unknown'}}}
